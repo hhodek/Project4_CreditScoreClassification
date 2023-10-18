@@ -22,7 +22,7 @@ Tableau
 https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data
 
 ## Github repository files
-Resources/
+Resources/train.csv    
 Classification_model_K_nearest_neighbors.ipynb    
 Pyspark Query.ipynb    
 RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb     
