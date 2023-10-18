@@ -1,5 +1,5 @@
 
-### Project 4 Predicting Heart Disease
+### Project 4 
 
 ## Overview
 The industry selected by the analysis team was finance.
