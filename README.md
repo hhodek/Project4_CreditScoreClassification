@@ -13,6 +13,20 @@ Given the customers’ credit-related information, build a machine learning mode
 ## Installation
 Google Colab   
 Python Pandas    
-SciKitLearn
-Tensorflow
+SciKitLearn 
+PySpark
+Tensorflow    
 Tableau
+
+## Dataset:    
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data
+
+## Github repository files
+Resources/
+
+
+## Link to Presentation    
+
+
+Group Project 4 - Hannah Hodek, Jenny Shin, Louis Gonzalez
+
