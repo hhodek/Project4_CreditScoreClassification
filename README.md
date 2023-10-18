@@ -1,5 +1,5 @@
 
-### Project 4 Predicting Heart Disease
+### Project 4 Credit Score Classification
 
 ## Overview
 The industry selected by the analysis team was finance.
@@ -13,6 +13,23 @@ Given the customers’ credit-related information, build a machine learning mode
 ## Installation
 Google Colab   
 Python Pandas    
-SciKitLearn
-Tensorflow
+SciKitLearn    
+PySpark    
+Tensorflow       
 Tableau
+
+## Dataset:    
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data
+
+## Github repository files
+Resources/
+Classification_model_K_nearest_neighbors.ipynb    
+Pyspark Query.ipynb    
+RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb     
+train_clean_data_for_tableau.ipynb    
+
+## Link to Presentation    
+pdf link
+
+Group Project 4 - Hannah Hodek, Jenny Shin, Louis Gonzalez
+
