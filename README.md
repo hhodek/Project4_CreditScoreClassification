@@ -31,5 +31,8 @@ train_clean_data_for_tableau.ipynb
 ## Link to Presentation    
 pdf link
 
+## Link to Tableau
+https://public.tableau.com/app/profile/louis.alejandro.gonzalez/viz/Project4FINAL_16976687017130/BOXPLOTCREDUTIL
+
 Group Project 4 - Hannah Hodek, Jenny Shin, Louis Gonzalez
 
