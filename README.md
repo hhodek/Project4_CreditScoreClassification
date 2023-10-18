@@ -1,5 +1,5 @@
 
-### Project 4 CreditScoreClassification
+### Project 4 Credit Score Classification
 
 ## Overview
 The industry selected by the analysis team was finance.
