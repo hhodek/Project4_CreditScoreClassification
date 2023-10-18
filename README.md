@@ -13,9 +13,9 @@ Given the customers’ credit-related information, build a machine learning mode
 ## Installation
 Google Colab   
 Python Pandas    
-SciKitLearn 
-PySpark
-Tensorflow    
+SciKitLearn    
+PySpark    
+Tensorflow       
 Tableau
 
 ## Dataset:    
