@@ -26,7 +26,7 @@ Resources/
 
 
 ## Link to Presentation    
-<pdf link>
+pdf link
 
 Group Project 4 - Hannah Hodek, Jenny Shin, Louis Gonzalez
 
