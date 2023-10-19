@@ -19,7 +19,7 @@ Tensorflow
 Tableau
 
 ## Dataset:    
-https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data
+[Data Link](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data)
 
 ## Github repository files
 Resources/train.csv    
@@ -29,10 +29,10 @@ RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb
 train_clean_data_for_tableau.ipynb    
 
 ## Link to Presentation    
-[Link](https://github.com/hhodek/Project4_CreditScoreClassification/blob/main/Project%204%20Presentation%20.pdf)
+[Presentation Link](https://github.com/hhodek/Project4_CreditScoreClassification/blob/main/Project%204%20Presentation%20.pdf)
 
 ## Link to Tableau
-https://public.tableau.com/app/profile/louis.alejandro.gonzalez/viz/Project4FINAL_16976687017130/BOXPLOTCREDUTIL
+[Tableau Link](https://public.tableau.com/app/profile/louis.alejandro.gonzalez/viz/Project4FINAL_16976687017130/BOXPLOTCREDUTIL)
 
 Group Project 4 - Hannah Hodek, Jenny Shin, Louis Gonzalez
 
