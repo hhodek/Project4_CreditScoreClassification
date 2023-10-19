@@ -29,7 +29,7 @@ RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb
 train_clean_data_for_tableau.ipynb    
 
 ## Link to Presentation    
-pdf link
+[Link](https://github.com/hhodek/Project4_CreditScoreClassification/blob/main/Project%204%20Presentation%20.pdf)
 
 ## Link to Tableau
 https://public.tableau.com/app/profile/louis.alejandro.gonzalez/viz/Project4FINAL_16976687017130/BOXPLOTCREDUTIL
