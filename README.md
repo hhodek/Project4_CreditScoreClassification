@@ -25,7 +25,8 @@ Tableau
 Resources/train.csv    
 Classification_model_K_nearest_neighbors.ipynb    
 Pyspark Query.ipynb    
-RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb     
+RFC_DT_ ADA_GRADIENTBOOST_ClassificationReport.ipynb  
+NNModel.ipynb    
 train_clean_data_for_tableau.ipynb    
 
 ## Link to Presentation    
